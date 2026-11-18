@@ -1,0 +1,15 @@
+{
+  "artwork": "Existing owner-provided DreamX brand assets; copied unchanged",
+  "files": [
+    {
+      "asset": "assets/brand/symbol.png",
+      "source": "output/dreamx-logo-kit-v1/brand/dreamx-color-256.png",
+      "sha256": "d6442e796cd9173ef9551c34982097a0172a624111fdf319fbd8d7b49d1559a5"
+    },
+    {
+      "asset": "assets/brand/lettering.json",
+      "source": "output/dreamx-gui-brand-v3/source/dreamx-lettering.json",
+      "sha256": "886c9f4ef46e68f4f461f86733c09343ba1407c3fcffc890c2d920acd5a42355"
+    }
+  ]
+}
