@@ -1,0 +1,4 @@
+# This repository is studio presentation, not a product language sample.
+# Keep the artwork maintenance helper out of GitHub language statistics.
+scripts/** linguist-detectable=false
+assets/*.svg linguist-generated=true
