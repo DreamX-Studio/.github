@@ -1,18 +1,15 @@
 # DreamX Studio profile
 
-The organization overview is maintained in [profile/README.md](profile/README.md).
-This repository contains public studio presentation and artwork, not product source.
+GitHub displays [profile/README.md](profile/README.md) on the [studio overview](https://github.com/DreamX-Studio). This repository holds the public introduction and brand artwork.
 
-- [Design references and decisions](docs/design-notes.md)
-- [Artwork provenance](assets/README.md)
+- [Profile design notes](docs/design-notes.md)
+- [Artwork and provenance](assets/README.md)
+- [Studio workspace and project directory (team access)](https://github.com/DreamX-Studio/dx-studio)
 
-Update project descriptions, visibility and status only when confirmed. Keep
-private repository links labelled as team-only. The Godot multiplayer project
-has no published repository or announced product title yet.
-DX Relay is listed by name only, with a general internal-project status; do not
-add descriptions of its purpose, technology or architecture to public content.
+## Maintaining the profile
 
-Run `python3 scripts/build_assets.py` after changing the banner composition.
-Check both color themes and a narrow viewport on GitHub before publishing.
-Assets are self-contained SVGs; no statistics service, tracking image, remote
-font or generated badge endpoint is required.
+Update the public catalogue when the studio announces a title, a release or a change in project status. Confirm wording with the project owner. The team maintains setup instructions and the repository directory in the private workspace. The public profile links to that workspace once and labels the access requirement.
+
+Use the generic title for the Godot game until its public name is announced. Describe DX Relay only as an internal studio project. Keep private repository metadata, source, technical details and internal handoffs out of public summaries.
+
+After changing the banner composition, run `python3 scripts/build_assets.py`. Check the rendered profile in light and dark themes, at desktop and phone widths. Verify that the banner and project icons load and that the team link points to the studio workspace.

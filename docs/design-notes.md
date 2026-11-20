@@ -1,7 +1,7 @@
 # Profile design notes
 
-Reviewed 18 November 2026. This is a studio overview, distinct from the DX MOP
-product README. It covers the Godot multiplayer game, DX MOP and DX Relay.
+The organization overview introduces the studio and its public-facing projects.
+Members enter the private workspace through a single team-labelled link.
 
 ## Community references
 
@@ -29,11 +29,12 @@ product README. It covers the Godot multiplayer game, DX MOP and DX Relay.
 - No visitor counters, contribution snakes, trophy walls, fake metrics,
   decorative technology stacks, empty social links or claims of production readiness.
 - The Godot project is described generically until its title is announced.
-- DX MOP is a Linux pilot and its source link is explicitly for team members.
+- DX MOP is described as a Linux pilot. Project-specific source links live in the team directory.
 - DX Relay is named only as an internal studio project. Its purpose, technology,
   architecture and implementation status are intentionally omitted.
 - Public summaries contain no private source, account information, raw logs,
   benchmark details or internal acceptance documents.
 
-Status is manually maintained from confirmed project updates. This profile does
-not automatically publish metadata from private repositories.
+Project owners confirm changes to public descriptions. Keep dates for dated
+announcements. Internal repository additions only require an update to the
+private directory unless the studio also announces a public project.
